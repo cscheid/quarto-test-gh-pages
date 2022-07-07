@@ -1,0 +1,8 @@
+---
+title: Some Computations
+---
+
+
+```{r}
+rnorm(100)
+```

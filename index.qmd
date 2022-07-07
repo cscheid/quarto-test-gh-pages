@@ -7,3 +7,5 @@ This is a Quarto website.
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 Here is a new change that will be rendered and published using github actions.
+
+Some [computational content](./computations.qmd).
